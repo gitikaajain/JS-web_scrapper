@@ -1,2 +1,2 @@
 # JS-web_scrapper
-A webscrapper to get the desired data out of any website.
+A tool that helps to get the desired data out of any website.
